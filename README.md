@@ -1,3 +1,2 @@
 # Blackjack
-A text-based Blackjack simulator in Python
-Freshman computer science final project
+My freshman computer science final project: a text-based Blackjack simulator in Python.
